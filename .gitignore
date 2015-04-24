@@ -1,0 +1,4 @@
+#MyRepo .gitignore
+#This file contains regexes of the git to ignore
+#currently set for recovery file generated via sublime
+[a-z].*\.swp
